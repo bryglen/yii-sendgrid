@@ -11,7 +11,7 @@ INSTALLATION
         'class' => 'ext.sendgrid.YiiSendGrid',
         'username' => 'my_username',
         'password' => 'my_password',
-        'api' => 'smtp' // can be smtp or web
+        'api' => 'smtp', // can be smtp or web
         // custom behavior
         'logging' => true, // default to true
         'dryRun' => false,
